@@ -29,18 +29,18 @@ Here's a glimpse of what I do:
 
 If you're into **hardware, coding,** and **making things move** (without the occasional explosion 💥), let's connect and bring some cool ideas to life! 🌟 
 
-I’m also passionate about contributing to open source projects. If you need an extra pair of hands (or two), count me in!.
+I’m also passionate about **contributing to open source projects**. If you need an extra pair of hands (or two), **count me in**!.
 
-Feel free to reach out to me at [**abishvijayan7643@gmail.com**](mailto:abishvijayan7643@gmail.com).
+Feel free to **reach out** to me at [**abishvijayan7643@gmail.com**](mailto:abishvijayan7643@gmail.com).
 
 ---
 
 ### 🎉 Few Random Attributes
 
-- I have a few 3D printers, just like I have a few mechanical keyboards — welcome to my rabbit holes! 🎹
-- I occasionally write blogs with my college mates at [3 Idiots Incorporated](https://3iinc.xyz/) (Like the name implies, three idiotic friends always together). 🖊️
-- I love capturing pictures of products, people, and mostly random candid moments. 📸 Check out my work on [Unsplash](https://unsplash.com/@abishvijayan).
-- I dual boot Linux—not with Windows, but with two Linux distros! That’s how much I adore my Linux setups! 🐧💻
+- I have a few **3D printers**, just like I have a few **mechanical keyboards** — welcome to my **rabbit holes**! 🎹
+- I occasionally write **blogs** with my college mates at [3 Idiots Incorporated](https://3iinc.xyz/) (Like the name implies, three **idiotic** friends always together). 🖊️
+- I love capturing pictures of products, people, and mostly **random moments**. 📸 Check out my work on [Unsplash](https://unsplash.com/@abishvijayan).
+- I dual boot Linux—not with Windows, but with two Linux distros! That’s how much I adore my **Linux setups**! 🐧💻
   
 ---
 
