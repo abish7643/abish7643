@@ -22,7 +22,7 @@ Here's a glimpse of what I do:
 
 - **Prototyping** 📐 
 - **Circuit Design** ⚙️
-- **Schematic PCB Design** 💻
+- **Schematic \& PCB Design** 💻
 - **Enclosure Design** 🖋️
 - **Firmware Development** 💡
 - **Testing & Debugging** 🧰
