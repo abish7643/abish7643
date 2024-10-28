@@ -35,6 +35,11 @@ Feel free to **reach out** to me at [**abishvijayan7643@gmail.com**](mailto:abis
 
 ---
 
+![abish7643's Stats](https://github-readme-stats.vercel.app/api?username=abish7643&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![abish7643's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abish7643&theme=dark&hide_border=true)
+
+---
+
 ### 🎉 Few Random Attributes
 
 - I have a few **3D printers**, just like I have a few **mechanical keyboards** — welcome to my **rabbit holes**! 🎹
@@ -42,11 +47,6 @@ Feel free to **reach out** to me at [**abishvijayan7643@gmail.com**](mailto:abis
 - I love capturing pictures of products, people, and mostly **random moments**. 📸 Check out my work on [Unsplash](https://unsplash.com/@abishvijayan).
 - I dual boot Linux—not with Windows, but with two Linux distros! That’s how much I adore my **Linux setups**! 🐧💻
   
----
-
-![abish7643's Stats](https://github-readme-stats.vercel.app/api?username=abish7643&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![abish7643's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abish7643&theme=dark&hide_border=true)
-
 ---
 
 ### 📚 Things I’m Learning
