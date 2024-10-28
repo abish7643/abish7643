@@ -24,6 +24,7 @@ Here's a glimpse of what I do:
 - **Circuit Design** ⚙️
 - **Schematic \& PCB Design** 💻
 - **Enclosure Design** 🖋️
+- **3D Printed Enclosure Protoypes** 🖨️
 - **Firmware Development** 💡
 - **Testing & Debugging** 🧰
 
