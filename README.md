@@ -38,6 +38,14 @@ Feel free to reach out to me at [**abishvijayan7643@gmail.com**](mailto:abishvij
 
 ---
 
+### 📚 Things I’m Learning
+
+<span>
+  <img src="https://img.shields.io/badge/ROS-5A5C5D?style=flat&logo=ros&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Yocto-9B4F96?style=flat&logo=yocto-project&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" height="25">
+</span>
+
 ### 🛠️ Skills & Tools
 
 **Languages**
@@ -62,7 +70,6 @@ Feel free to reach out to me at [**abishvijayan7643@gmail.com**](mailto:abishvij
 <span>
   <img src="https://img.shields.io/badge/ESP--IDF-003B46?style=flat&logo=espressif&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Yocto-9B4F96?style=flat&logo=yocto-project&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/LVGL-48a9dc?style=flat&logo=lvgl&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white" height="25">
 </span>
@@ -90,5 +97,3 @@ Feel free to reach out to me at [**abishvijayan7643@gmail.com**](mailto:abishvij
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" height="25">
 </span>
-
----
