@@ -27,7 +27,9 @@ Here's a glimpse of what I do:
 - **Firmware Development** 💡
 - **Testing & Debugging** 🧰
 
-If you're into **hardware, coding,** and **making things move**, let's connect and bring some cool ideas to life! 🌟 
+If you're into **hardware, coding,** and **making things move** (without the occasional explosion 💥), let's connect and bring some cool ideas to life! 🌟 
+
+I’m also passionate about contributing to open source projects. If you need an extra pair of hands (or two), count me in!.
 
 Feel free to reach out to me at [**abishvijayan7643@gmail.com**](mailto:abishvijayan7643@gmail.com).
 
