@@ -16,7 +16,7 @@
 
 I'm **Abish** – an **Embedded Design Engineer** passionate about turning ideas into reality from scratch! 🛠️ 
 
-I have hands-on experience across the **entire product development process** – from **sketching prototypes** ✏️, **designing circuits** ⚡, and building **PCB schematics** 🔌 to creating custom **enclosures** 📦 and writing **firmware** 🖥️ to bring it all to life.
+I have hands-on experience across the **entire product development process** – from **sketching prototypes** ✏️, **designing circuits** ⚡, and building **PCB design** 🔌 to creating **3D printed custom enclosures** 📦 and writing **firmware** 🖥️ to bring it all to life.
 
 Here's a glimpse of what I do:
 
@@ -35,7 +35,7 @@ Feel free to **reach out** to me at [**abishvijayan7643@gmail.com**](mailto:abis
 
 ---
 
-![abish7643's Stats](https://github-readme-stats.vercel.app/api?username=abish7643&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![abish7643's Stats](https://github-readme-stats.vercel.app/api?username=abish7643&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 ![abish7643's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abish7643&theme=dark&hide_border=true)
 
 ---
