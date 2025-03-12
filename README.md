@@ -56,6 +56,7 @@ Feel free to **reach out** to me at [**abishvijayan7643@gmail.com**](mailto:abis
   <img src="https://img.shields.io/badge/ROS-5A5C5D?style=flat&logo=ros&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Yocto-9B4F96?style=flat&logo=yocto-project&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Zephyr-EE82EE?style=flat&logo=zephyrproject&logoColor=white" height="25">
 </span>
 
 ### 🛠️ Skills & Tools
