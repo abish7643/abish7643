@@ -43,7 +43,7 @@ Feel free to **reach out** to me at [**abishvijayan7643@gmail.com**](mailto:abis
 
 ### 🎉 Few Random Attributes
 
-- I have a few **3D printers**, just like I have a few **mechanical keyboards** — welcome to my **rabbit holes**! 🎹
+- I have a few **3D printers**, just like I have a few **mechanical keyboards** — welcome to my **rabbit holes**! 🎹 Checkout my [printables](https://www.printables.com/@SeventySix_3018181) profile as well.
 - I occasionally write **blogs** with my college mates at [3 Idiots Incorporated](https://3iinc.xyz/) (Like the name implies, three **idiotic** friends always together). 🖊️
 - I love capturing pictures of products, people, and mostly **random moments**. 📸 Check out my work on [Unsplash](https://unsplash.com/@abishvijayan).
 - I dual boot Linux—not with Windows, but with two Linux distros! That’s how much I adore my **Linux setups**! 🐧💻
